@@ -433,17 +433,22 @@ ALTER TABLE Perfil_Recomendacao ADD CONSTRAINT FK_Perfil_Recomendacao_2
         ENTENDEMOS QUE TEREMOS DECRÉSCIMO NA NOTA, MAS SE PUDERMOS FAZER ALGUMA COISA NO PRÓXIMO SEMESTRE PARA SUPRIR ESSA PERDA SERÁ DE GRANDE AJUDA. <br>
         DESDE JÁ, OBRIGADO PELA ATENÇÃO.
 
+### 12	CALENDÁRIO REVERSO E DIAGRAMA DE CLASSES<br>
+### 12.1 CALENDÁRIO REVERSO<br>
+![Alt text](https://github.com/ianf27/template_projeto_integrador/blob/main/arquivos/image.png?raw=true "Modelo Conceitual")
 
-### 12	TABELAS E PRINCIPAIS CONSULTAS<br>
+### 12.2 DIAGRAMA DE CLASSES<br>
+
+### 13	TABELAS E PRINCIPAIS CONSULTAS<br>
     OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
-#### 12.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
-#### 12.2 PRINCIPAIS CONSULTAS DO SISTEMA 
+#### 13.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
+#### 13.2 PRINCIPAIS CONSULTAS DO SISTEMA 
  Inserir as principais consultas (relativas aos 5 principais relatórios) definidas previamente no iten 3.1 deste template.
  <br>
   a) Você deve apresentar as consultas em formato SQL para cad um dos relatórios.
  <br>
   b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.<br>
- #### 12.3 ANTEPROJETO VERSÃO 1
+ #### 13.3 ANTEPROJETO VERSÃO 1
  
  Link para [O Anteprojeto](https://docs.google.com/document/d/1q2nIYwL4GkhGGWR_KXa_oTKHMrspcpzvXchqMwVYJJ4/edit?usp=sharing&ouid=104104747195236161434&rtpof=true&sd=true)
 
@@ -453,21 +458,21 @@ ALTER TABLE Perfil_Recomendacao ADD CONSTRAINT FK_Perfil_Recomendacao_2
  
  
  
- ### 13 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
+ ### 14 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 13.1	Integração com Linguagem de programação; <br>
- #### 13.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
+ #### 14.1	Integração com Linguagem de programação; <br>
+ #### 14.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
  #### solicitações feitas pelo professor. <br>
- #### 13.3 ANTEPROJETO VERSÃO 2
+ #### 14.3 ANTEPROJETO VERSÃO 2
  <br>
  <br>
  
  
- ### 14 Slides e Apresentação em vídeo. <br>
+ ### 15 Slides e Apresentação em vídeo. <br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 14.1 Slides; <br>
- #### 14.2 Apresentação em vídeo <br>
- #### 14.3 ANTEPROJETO VERSÃO FINAL
+ #### 15.1 Slides; <br>
+ #### 15.2 Apresentação em vídeo <br>
+ #### 15.3 ANTEPROJETO VERSÃO FINAL
  <br>
  <br>   
 
